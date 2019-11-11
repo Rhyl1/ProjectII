@@ -1,7 +1,7 @@
-# Code Institute
+# ProjectII
 
-Welcome USER_NAME,
+Welcome reader,
 
-We have preinstalled all of the tools you need to get started.
+This repository was started to accomodate the Milestone 2 project for Code Institue, due 18-11.
 
 Happy coding!
